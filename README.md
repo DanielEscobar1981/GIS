@@ -1,3 +1,2 @@
-# GIS
-SANTACATALINAMZ6
+# GISCAPITAL
 index.html
